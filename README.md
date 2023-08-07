@@ -7,6 +7,9 @@
     - [Employee Management](#employee-management)
     - [Customer & Order Management](#customer--order-management)
     - [Inventory & Transactional Data](#inventory--transactional-data)
+- [Entity-Relationship Diagram & Relational Model](#entity-relationship-diagram--relational-model)
+    - [Entity-Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
+    - [Relational Model](#relational-model)
 - [Technical Overview](#technical-overview)
     - [Library Dependencies](#library-dependencies)
     - [Database Structure & Connection](#database-structure--connection)
@@ -127,7 +130,5 @@ The database system offers manifold benefits:
 3. Set up the SQLite database connection.
 4. Execute the Jupyter notebook to explore, analyze, and visualize the data.
 5. Integrate with Datapane if needed, for publishing and sharing.
-
-For further queries, collaborations, or customization requests, kindly reach out to the contributors. Your feedback is invaluable!
 
 ---
