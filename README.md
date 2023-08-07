@@ -78,6 +78,10 @@ To understand our database's structure, flow, and interdependencies, both the ER
 
 ## Technical Overview
 
+### Database Structure & Connection
+
+The project utilizes the SQLite database system, with the database file named 'MIS 380 Term Project.db'. The provided utility functions facilitate easy connection, query execution, and data retrieval.
+
 ### Library Dependencies
 
 Ensure the following Python libraries are installed for smooth execution:
@@ -87,10 +91,6 @@ Ensure the following Python libraries are installed for smooth execution:
 - **datapane**: For publishing Python data analyses.
 - **plotly**: For interactive data visualizations.
 - **sqlite3**: For SQLite database interactions.
-
-### Database Structure & Connection
-
-The project utilizes the SQLite database system, with the database file named 'MIS 380 Term Project.db'. The provided utility functions facilitate easy connection, query execution, and data retrieval.
 
 ### Utility Functions
 
@@ -108,7 +108,7 @@ Harness the power of `plotly` to generate:
 
 ### Datapane Integration
 
-The project is integrated with Datapane to allow for publishing and sharing of analyses. Ensure you have the appropriate token for authentication.
+The project is integrated with Datapane to allow for publishing and sharing of analyses. Ensure you have an appropriate token for authentication.
 
 ---
 
