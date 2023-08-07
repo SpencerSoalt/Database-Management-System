@@ -94,10 +94,10 @@ Ensure the following Python libraries are installed for smooth execution:
 
 ### Utility Functions
 
-- `run_query(q)`: A versatile function to run any SQL query and fetch results in a pandas DataFrame.
-- `run_command(c)`: Execute database commands, especially useful for data insertions, updates, and deletions.
+- `run_query()`: A versatile function to run any SQL query and fetch results in a pandas DataFrame.
+- `run_command()`: Execute database commands, especially useful for data insertions, updates, and deletions.
 - `show_tables()`: Get a quick snapshot of all tables and views present in the database.
-- `get_table_row_count(tablename)`: Obtain row count for a specific table, useful for monitoring data growth.
+- `get_table_row_count()`: Obtain row count for a specific table, useful for monitoring data growth.
 
 ### Data Visualizations
 
