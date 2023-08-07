@@ -46,6 +46,33 @@ The Coffee Shop Database project is a comprehensive data management solution tai
 
 ---
 
+## Entity-Relationship Diagram & Relational Model
+
+The backbone of our database design is the Entity-Relationship Diagram (ERD) and the subsequent relational model derived from it. These tools provide a visual representation of the logical structure of our database, ensuring clarity in design and facilitating efficient database queries.
+
+### Entity-Relationship Diagram (ERD)
+
+The ERD visually represents the relationships between different entities (tables) in our database. It provides a clear picture of how data tables relate and interact with one another.
+
+**Diagram**:
+![ERD Image](https://github.com/SpencerSoalt/Database-Management-System/blob/main/Diagrams/ERD.png)
+
+### Relational Model
+
+Post the ERD design, we transitioned to the relational model, which is a more detailed and structured representation of our database. This model incorporates primary keys, foreign keys, and the specific types of relationships (one-to-one, one-to-many, many-to-many) between tables.
+
+**Diagram**:
+![Relational Model Image](https://github.com/SpencerSoalt/Database-Management-System/blob/main/Diagrams/Relational%20Model.png)
+
+**Key Points**:
+- **Primary Keys**: Every table has a unique primary key, ensuring each record can be distinctly identified.
+- **Foreign Keys**: These are columns in one table that uniquely identify rows of another table, establishing relationships.
+- **Relationship Types**: The arrows and lines in the relational model image denote the type and direction of the relationship between tables.
+
+To understand our database's structure, flow, and interdependencies, both the ERD and the relational model diagrams should be referred to concurrently.
+
+---
+
 ## Technical Overview
 
 ### Library Dependencies
