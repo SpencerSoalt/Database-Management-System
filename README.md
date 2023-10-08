@@ -7,7 +7,7 @@
     - [Employee Management](#employee-management)
     - [Customer & Order Management](#customer--order-management)
     - [Inventory & Transactional Data](#inventory--transactional-data)
-- [Entity-Relationship Diagram & Relational Model](#entity-relationship-diagram--relational-model)
+- [Data Modeling](#entity-relationship-diagram--relational-model)
     - [Entity-Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
     - [Relational Model](#relational-model)
 - [Technical Overview](#technical-overview)
@@ -49,7 +49,7 @@ The Coffee Shop Database project is a comprehensive data management solution tai
 
 ---
 
-## Entity-Relationship Diagram & Relational Model
+## Data Modeling
 
 The backbone ofthedatabase design is the Entity-Relationship Diagram (ERD) and the subsequent relational model derived from it. These tools provide a visual representation of the logical structure ofthedatabase, ensuring clarity in design and facilitating efficient database queries.
 
