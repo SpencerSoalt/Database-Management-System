@@ -1,4 +1,4 @@
-# Coffee Shop Database Management System
+# Database Management System
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@
 
 ## Introduction
 
-The Coffee Shop Database project is a comprehensive data management solution tailored for coffee shop businesses. By centralizing data related to employees, inventory, orders, and transactions, this system seeks to streamline operations, enhance customer experience, and provide actionable insights for business growth.
+This Database project is a comprehensive data management solution tailored for coffee shop businesses. By centralizing data related to employees, inventory, orders, and transactions, this system seeks to streamline operations, enhance customer experience, and provide actionable insights for business growth.
 
 ---
 
