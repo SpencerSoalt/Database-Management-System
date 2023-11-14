@@ -1,4 +1,4 @@
-# Database Management System & Analysis
+# Database Management System & Analytics
 
 ## Table of Contents
 
